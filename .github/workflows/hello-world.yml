@@ -25,7 +25,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Echo text
-        run: echo "Hello, world!"
+        run: echo "Hello, From world! of DevOps"
 
       # Runs a set of commands using the runners shell
       # - name: Run a multi-line script
